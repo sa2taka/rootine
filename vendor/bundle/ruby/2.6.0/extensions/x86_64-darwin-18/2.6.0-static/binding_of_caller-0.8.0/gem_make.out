@@ -1,0 +1,16 @@
+current directory: /Users/t0p_l1ght/projects/rootine/vendor/bundle/ruby/2.6.0/gems/binding_of_caller-0.8.0/ext/binding_of_caller
+/Users/t0p_l1ght/.rbenv/versions/2.6.3/bin/ruby -I /Users/t0p_l1ght/.rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20190602-14581-1hhqvo8.rb extconf.rb
+
+current directory: /Users/t0p_l1ght/projects/rootine/vendor/bundle/ruby/2.6.0/gems/binding_of_caller-0.8.0/ext/binding_of_caller
+make "DESTDIR=" clean
+make: *** No rule to make target `clean'.  Stop.
+
+current directory: /Users/t0p_l1ght/projects/rootine/vendor/bundle/ruby/2.6.0/gems/binding_of_caller-0.8.0/ext/binding_of_caller
+make "DESTDIR="
+echo "Nada."
+Nada.
+
+current directory: /Users/t0p_l1ght/projects/rootine/vendor/bundle/ruby/2.6.0/gems/binding_of_caller-0.8.0/ext/binding_of_caller
+make "DESTDIR=" install
+echo "Nada."
+Nada.

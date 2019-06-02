@@ -1,0 +1,15 @@
+current directory: /Users/t0p_l1ght/projects/rootine/vendor/bundle/ruby/2.6.0/gems/debug_inspector-0.0.3/ext/debug_inspector
+/Users/t0p_l1ght/.rbenv/versions/2.6.3/bin/ruby -I /Users/t0p_l1ght/.rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20190602-14581-15lrc34.rb extconf.rb
+creating Makefile
+
+current directory: /Users/t0p_l1ght/projects/rootine/vendor/bundle/ruby/2.6.0/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR=" clean
+
+current directory: /Users/t0p_l1ght/projects/rootine/vendor/bundle/ruby/2.6.0/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR="
+compiling debug_inspector.c
+linking shared-object debug_inspector.bundle
+
+current directory: /Users/t0p_l1ght/projects/rootine/vendor/bundle/ruby/2.6.0/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR=" install
+/usr/local/bin/ginstall -c -m 0755 debug_inspector.bundle ./.gem.20190602-14581-13nc8ny
